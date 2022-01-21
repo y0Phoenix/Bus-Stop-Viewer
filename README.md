@@ -6,6 +6,8 @@ Once the page is loaded click the "Show stops between MIT and Harvard" button he
 
 ![alt text](https://github.com/y0Phoenix/Bus-Stop-Viewer/blob/main/click%20me.PNG?raw=true)
 
+Then you can watch the marker move from the MIT campus to Harvards'
+
 # Road Map
 
 * Search for coordinates and move the map to that spot
